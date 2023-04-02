@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahip
 - 👀 I’m interested in Computer Science
-- 🌱 Areas of Interest: Number Theory, Cryptography, Quantum Mechanics, Compilers and Software Development.
+- 🌱 Areas of Interest: Deep Learning, Number Theory, Cryptography, Quantum Mechanics, Compilers and Software Development.
 - 💞️ I’m looking to collaborate on projects I like and that help the community
 - 📫 How to reach me  Reach me at mahippruthi@gmail.com
 
