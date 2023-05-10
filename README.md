@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mahip
 - 👀 I’m interested in Computer Science
-- 🌱 Areas of Interest: Deep Learning, Number Theory, Cryptography, Quantum Mechanics, Compilers and Software Development.
+- 🌱 Areas of Interest: Deep Learning, Number Theory, Cryptography, Quantum Mechanics, Compilers, Bio-informatics and Software Development.
 - 💞️ I’m looking to collaborate on projects I like and that help the community
-- 📫 How to reach me  Reach me at mahippruthi@gmail.com
+- 📫 How to reach me  Reach me at mahippruthi@gmail.com or m292sing@uwaterloo.ca
 - 📫 Currently Exploring LLM's and Computer Vision Papers and Projects
 
 <!---
